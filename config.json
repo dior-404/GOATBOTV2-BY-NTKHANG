@@ -33,7 +33,7 @@
   "GENDER": "MALE",
   "nickNameBot": "BOT POGI",
   "FACEBOOK": "https://www.facebook.com/61564299600446",
-  "prefix": ".",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
